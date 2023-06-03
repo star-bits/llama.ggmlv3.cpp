@@ -14,7 +14,7 @@ make
 
 ## Models:
 ```shell
-ls ../../weights/llama.ggmlv3.cpp/models 
+ls ../../weights/llama.ggmlv3.cpp/models
 wizard-vicuna-13B-GGML
 ```
 - [<code>wizard-vicuna-13B-GGML/wizard-vicuna-13B.ggmlv3.q4_0.bin</code>](https://huggingface.co/TheBloke/wizard-vicuna-13B-GGML)
